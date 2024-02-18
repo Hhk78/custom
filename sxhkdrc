@@ -1,0 +1,12 @@
+# Screenshot 
+alt + v
+    mate-screenshot -a
+# Ses kontrolü
+XF86AudioRaiseVolume
+    amixer -q set Master 3%+
+
+XF86AudioLowerVolume
+    amixer -q set Master 3%-
+
+XF86AudioMute
+    amixer -q set Master toggle
