@@ -6,3 +6,4 @@ nitrogen --restore &
 slstatus &
 mate-power-manager &
 xfce4-clipman &
+(sxhkd &
