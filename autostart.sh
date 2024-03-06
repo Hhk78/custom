@@ -7,3 +7,4 @@ slstatus &
 mate-power-manager &
 xfce4-clipman &
 sxhkd &
+xset s off &
