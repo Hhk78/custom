@@ -1,3 +1,4 @@
+{run_command, "%s", "/home/h/bin/cpu-temp.sh"},
 #!/bin/bash
 
 # Komut çıktısını oku
